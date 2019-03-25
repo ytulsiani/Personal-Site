@@ -1,4 +1,4 @@
-baseurl = "www.ytulsiani.com/"
+baseurl = "www.ytulsiani.com"
 languageCode = "en-us"
 Title = "Yash Tulsiani's Blog"
 custom_css = "/static/css/custom.css"
