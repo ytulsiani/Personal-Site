@@ -2,7 +2,7 @@ baseurl = "www.ytulsiani.com"
 languageCode = "en-us"
 Title = "Yash Tulsiani's Blog"
 custom_css = "/static/css/custom.css"
-theme = "hugo_theme_pickles"
+theme = "ananke"
 [params]
   paginate = 10
   # Google Analytics API key.
