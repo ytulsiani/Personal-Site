@@ -1,4 +1,12 @@
 baseurl = "https://blog.ytulsiani.com"
 languageCode = "en-us"
-Title = "Your site title"
+Title = "Yash's Blog"
 theme = "black-and-light"
+author = "Yash Tulsiani"
+
+[params]
+    sitename = "Yash's Blog"
+
+[[menu.main]]
+    name = "About Me"
+    url = "https://ytulsiani.com"
