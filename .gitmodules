@@ -1,9 +1,3 @@
-[submodule "themes/ananke"]
-	path = themes/ananke
-	url = https://github.com/budparr/gohugo-theme-ananke.git
-[submodule "themes/hugo_theme_pickles"]
-	path = themes/hugo_theme_pickles
-	url = https://github.com/mismith0227/hugo_theme_pickles.git
-[submodule "themes/dusky-neon-potato"]
-	path = themes/dusky-neon-potato
-	url = https://github.com/VVelox/hugo-dusky-neon-potato.git
+[submodule "themes/black-and-light"]
+	path = themes/black-and-light
+	url = https://github.com/davidhampgonsalves/hugo-black-and-light-theme.git

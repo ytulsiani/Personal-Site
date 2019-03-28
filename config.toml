@@ -1,4 +1,4 @@
-baseurl = "ytulsiani.com"
+baseurl = "https://blog.ytulsiani.com"
 languageCode = "en-us"
 Title = "Your site title"
-theme = "dusky-neon-potato"
+theme = "black-and-light"
